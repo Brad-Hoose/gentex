@@ -1,0 +1,10 @@
+1,Square,CenterX,363.122,CenterY,408.663,SideLength,76.802,Orientation,3.507
+2,Square,CenterX,103.017,CenterY,279.442,SideLength,90.603,Orientation,2.778
+3,Ellipse,CenterX,488.775,CenterY,136.852,R1,14.595,R2,23.366,Orientation,3.975
+4,Ellipse,CenterX,234.756,CenterY,491.076,R1,1.518,R2,43.119,Orientation,6.254
+5,Circle,CenterX,338.591,CenterY,157.296,Radius,40.845
+6,Circle,CenterX,424.026,CenterY,495.951,Radius,1.631
+7,Equilateral Triangle,CenterX,349.971,CenterY,263.142,SideLength,93.402,Orientation,4.32
+8,Equilateral Triangle,CenterX,273.408,CenterY,40.555,SideLength,18.712,Orientation,2.848
+9,Polygon,X0,136.726,Y0,453.549,X1,494.272,Y1,321.349,X2,478.728,Y2,252.565,X3,381.482,Y3,15.197,X4,228.604,Y4,73.413,X5,190.502,Y5,171.571,X6,136.726,Y6,453.549
+10,Polygon,X0,97.457,Y0,439.096,X1,412.712,Y1,367.699,X2,429.11,Y2,339.875,X3,312.433,Y3,109.203,X4,97.457,Y4,439.096

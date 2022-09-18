@@ -1,0 +1,15 @@
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\bin\Debug\net6.0\GentexSolution.exe
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\bin\Debug\net6.0\GentexSolution.deps.json
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\bin\Debug\net6.0\GentexSolution.runtimeconfig.json
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\bin\Debug\net6.0\GentexSolution.dll
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\bin\Debug\net6.0\GentexSolution.pdb
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.csproj.AssemblyReference.cache
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.AssemblyInfoInputs.cache
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.AssemblyInfo.cs
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.csproj.CoreCompileInputs.cache
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.dll
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\refint\GentexSolution.dll
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.pdb
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\GentexSolution.genruntimeconfig.cache
+C:\Users\BRADLEY\source\repos\GentexSolution\GentexSolution\obj\Debug\net6.0\ref\GentexSolution.dll
